@@ -19,16 +19,16 @@ This project looks into how and why road accidents happen. We collected and stud
   
 ## Key Findings
 
-### Total Casualities - 417,883
+### 1. Total Casualities - 417,883
 - 2021: 222,146
 - 2022: 195,737 (slight drop in 2022)
 
-#### Severity:
+#### 2. Severity:
 - Fatal: 7,135
 - Serious: 59,312
 - Slight: 351,436
 
-#### Causalities by Vehicle type
+#### 3. Causalities by Vehicle type
 - Cars: 333,485 (majority)
 - Bikes & Vans: 33k each
 - Buses: 12,798
@@ -39,13 +39,13 @@ This project looks into how and why road accidents happen. We collected and stud
 - Dual carriage: Over 80k
 - Roundabouts: Over 40k
 
-#### By Road Surface:
+#### 4. By Road Surface:
 - Most on dry roads, fewer on wet, least on snow/ice
 
-#### By Light Condition:
+#### 5. By Light Condition:
 - 73% during daylight, 27% in the dark
 
-#### In rural & urban areas
+#### 6. In rural & urban areas
 - 61% in urban areas, 39% in rural areas
 
 ## Key Insights
